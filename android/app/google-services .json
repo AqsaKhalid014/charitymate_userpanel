@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129550855747",
+    "project_id": "charitymate-bc611",
+    "storage_bucket": "charitymate-bc611.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129550855747:android:c824144550d988bee0eef6",
+        "android_client_info": {
+          "package_name": "com.example.sahara_homepage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129550855747-cfkjpbn46m9vommo5h2ka37rp3ie0daa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahara_homepage",
+            "certificate_hash": "773a562521f08b1a2c9ec1b9fcc96c8aa710149f"
+          }
+        },
+        {
+          "client_id": "129550855747-agdo732lm6itmi2kbppnlhit3j980grt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3emHhfQ-yG5ixf2xMnUnkK8amgNokZzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129550855747-agdo732lm6itmi2kbppnlhit3j980grt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

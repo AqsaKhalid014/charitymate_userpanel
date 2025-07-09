@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129550855747",
+    "project_id": "charitymate-bc611",
+    "storage_bucket": "charitymate-bc611.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129550855747:android:c824144550d988bee0eef6",
+        "android_client_info": {
+          "package_name": "com.example.sahara_homepage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3emHhfQ-yG5ixf2xMnUnkK8amgNokZzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
